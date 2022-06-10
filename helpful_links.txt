@@ -1,0 +1,2 @@
+helpfull links :
+1 -React Native & Django authentication : https://afdezl.github.io/post/authentication-react-native-django-2/
